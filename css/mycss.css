@@ -192,6 +192,20 @@ p small {
 	padding-left: 20px;
 }
 
+#exp-title {
+	display: inline-block;
+}
+
+#exp span {
+	margin-bottom: 5px;
+}
+
+.tag-title {
+	margin-bottom: 5px;
+	display: inline-block;
+}
+
+
 .card {
 	width: 90%;
 	margin-bottom: 30px;
@@ -229,6 +243,18 @@ p small {
 	background-color: #444;
 	color: whitesmoke;
 	cursor: pointer;
+}
+
+.eng {
+	background-color: rgb(211, 248, 136);
+}
+
+.vis {
+	background-color: rgba(255, 255, 0, 0.77);
+}
+
+.ds {
+	background-color: rgb(248, 192, 178);
 }
 
 .desc li {
