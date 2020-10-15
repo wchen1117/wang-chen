@@ -242,7 +242,6 @@ p small {
 .tag:hover {
 	background-color: #444;
 	color: whitesmoke;
-	cursor: pointer;
 }
 
 .eng {
