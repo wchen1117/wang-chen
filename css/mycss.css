@@ -273,13 +273,14 @@ p small {
 	padding: 36px 40px;
 	position: absolute;
 	left: 0;
+	font-size: 11px;
 }
 
 #foot span {
 	padding: 3px 4px;
 	float: right;
 	margin: 0 10px;
-	font-size: 20px;
+	font-size: 14px;
 	border-radius: 5px;
 }
 
